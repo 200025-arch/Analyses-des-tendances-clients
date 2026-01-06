@@ -27,3 +27,19 @@ Création d’un dashboard interactif permettant une analyse dynamique selon :
 - la catégorie de produits,
 - le type de livraison,
 - le groupe d’âge des clients.
+
+----
+## 📊 Principaux indicateurs du dashboard
+
+**🔢 KPI**
+- **3,9K** clients dans le dataset
+- **59,76 €** de montant moyen par commande
+- **3,75 / 5** de note moyenne donnée par les clients
+
+**🧭 Segments & analyses**
+- Statut d’abonnement
+- Catégories de produits les plus génératrices de revenus
+- Volumes de ventes par catégorie
+- Analyse démographique
+
+
