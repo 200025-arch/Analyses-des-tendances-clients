@@ -45,4 +45,10 @@ Création d’un dashboard interactif permettant une analyse dynamique selon :
 - Volumes de ventes par catégorie
 - Analyse démographique
 
+----
+## 🔍 Ce que montre l’analyse
 
+- Les catégories Clothing et Accessories concentrent la majorité des revenus et des ventes.
+- Le segment Young Adult est le plus actif en termes d’achat.
+- L’abonnement semble être encore peu adopté (27 %), révélant une opportunité pour des campagnes marketing ciblées.
+- Certains types de livraison influencent légèrement les volumes de commande (analyses détaillées à venir une fois le CSV reçu).
