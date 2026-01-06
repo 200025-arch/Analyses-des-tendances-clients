@@ -14,4 +14,4 @@ L’objectif de ce projet est d’analyser le comportement des clients d’un si
 **2. Modélisation & requêtes avancées – PostgreSQL**
 - Mise en place d’une base de données relationnelle.
 - Requêtes SQL complexes pour :
- - analyser les revenus par catégorie,
+ -- analyser les revenus par catégorie,
