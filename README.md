@@ -20,6 +20,7 @@ L’objectif de ce projet est d’analyser le comportement des clients d’un si
   - calculer le panier moyen et la fréquence d’achat.
 
 **3. Visualisation & Storytelling – Power BI**
+
 Création d’un dashboard interactif permettant une analyse dynamique selon :
 - le statut d’abonnement,
 - le genre,
