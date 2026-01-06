@@ -15,3 +15,14 @@ L’objectif de ce projet est d’analyser le comportement des clients d’un si
 - Mise en place d’une base de données relationnelle.
 - Requêtes SQL complexes pour :
   - analyser les revenus par catégorie,
+  - segmenter les clients,
+  - mesurer l’impact du type de livraison sur les ventes,
+  - calculer le panier moyen et la fréquence d’achat.
+
+**3. Visualisation & Storytelling – Power BI**
+Création d’un dashboard interactif permettant une analyse dynamique selon :
+- le statut d’abonnement,
+- le genre,
+- la catégorie de produits,
+- le type de livraison,
+- le groupe d’âge des clients.
